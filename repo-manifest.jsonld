@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bokeh/pm/commit/0e25efd2146c3e2947c005fa9ff67aff02f2a93f",
       "git:hexsha": "0e25efd2146c3e2947c005fa9ff67aff02f2a93f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
